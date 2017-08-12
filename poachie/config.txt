@@ -1,0 +1,4 @@
+host=[SERVER ADDRESS]
+username=[TS QUERY USERNAME]
+password=[TS QUERY PASSWORD]
+channelID=[CHANNEL ID #]
